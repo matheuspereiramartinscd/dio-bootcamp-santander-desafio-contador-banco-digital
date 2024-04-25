@@ -1,18 +1,3 @@
-## Getting Started
+Um programa Java que implementa um banco digital, oferecendo funcionalidades de depósito, saque e transferência entre contas corrente e poupança dentro da mesma instituição.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Screenshot_1](https://github.com/matheuspereiramartinscd/dio-bootcamp-santander-desafio-contador-banco-digital/assets/136721687/6ba6d6ba-0e03-4731-8608-0632e494f541)
